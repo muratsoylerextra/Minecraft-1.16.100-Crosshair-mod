@@ -1,0 +1,11 @@
+# Minecraft-1.16.100-Crosshair-mod
+This is a New crosshair mod that will allow the player to change their crosshair/Uİ 
+
+WHATS NEW?
+_1.0_
+
+-CAN CHANGE THE COLOR OF CROSSHAİR
+-CAN CHANGE THE RESOULTİON OF THE CROSSHAİR
+-CAN PUT A PHOTO ON GALLERY AS CROSSHAİR
+-CAN REMOVE CROSSHAİR
+-CAN CHANGE THE CONTROLLER/CROSSHAİR
